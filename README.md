@@ -2,9 +2,9 @@
 
 # Harley
 
-**Cloud-Native Engineer & Web Developer**
+**Backend & cloud engineer**
 
-*Ex-Alibaba Cloud Tech Lead · 6 years running infrastructure for 600K+ servers and 5M+ VMs*
+*12 years in. Six at Alibaba Cloud running IaaS. Now building things of my own.*
 
 </div>
 
@@ -23,31 +23,26 @@
 
 ---
 
-### What I Do
+### What I do
 
-- **Website Development** — Shopify / WordPress / Astro — fast, clean, production-ready
-- **Performance Optimization** — Core Web Vitals, CDN, caching, Lighthouse 95+
-- **AI Integration** — ChatGPT/Claude API, chatbots, recommendation engines
-- **Cloud-Native Infrastructure** — K8s deployment, GPU scheduling, model serving
+Websites (Shopify, WordPress, occasionally Astro) and AI infrastructure — running models on your own cluster instead of renting someone else's API.
+
+Portfolio and writing: [hellenwang.github.io/portfolio](https://hellenwang.github.io/portfolio/)
 
 ### Background
 
-**6 years at Alibaba Cloud** — Led the IaaS platform team behind 600K+ physical servers and 5M+ VMs/containers. Built automation systems for 1,000+ on-site upgrades without major incidents.
+Spent just over six years at Alibaba Cloud as tech lead on the IaaS platform. My team handled fault self-healing, automated upgrades, and software scheduling across 600K+ physical servers and 5M+ VMs and containers. We did a thousand-plus on-site upgrades without a major incident.
 
-**Before that** — Backend engineer at DiDi (Go), cloud engineer at IBM CDL. 11 years of production engineering.
+Before that: Go backend work at DiDi, container deployment tooling at IBM. Total 12 years in the industry.
 
-### Currently
+### Get in touch
 
-Building [independent web projects](https://github.com/HellenWang?tab=repositories) and exploring AI infrastructure services for enterprise clients.
-
-Open to freelance work — [reach out on Upwork](https://www.upwork.com/) or email me.
-
-### Connect
+Open to freelance work. Email [wanghanlin12@gmail.com](mailto:wanghanlin12@gmail.com) — I usually reply within a day.
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-HellenWang-181717?style=flat-square&logo=github)](https://github.com/HellenWang)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:harley@example.com)
+[![Email](https://img.shields.io/badge/Email-wanghanlin12%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wanghanlin12@gmail.com)
 
 </div>
 
