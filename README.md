@@ -4,7 +4,7 @@
 
 **Cloud-Native Engineer & Web Developer**
 
-*Ex-Alibaba Cloud Tech Lead · 5 years running infrastructure for 400K+ servers*
+*Ex-Alibaba Cloud Tech Lead · 5 years running infrastructure for 600K+ servers and 5M+ VMs*
 
 </div>
 
@@ -32,12 +32,9 @@
 
 ### Background
 
-```
-2020.12 - 2026.04  Alibaba Cloud    Tech Lead, IaaS Platform
-2018 - 2020        DiDi              Backend Engineer (Golang)
-2016 - 2018        IBM CDL           Cloud Engineer
-2013 - 2016        BUPT              M.Eng. Computer Technology
-```
+**5 years at Alibaba Cloud** — Led the IaaS platform team behind 600K+ physical servers and 5M+ VMs/containers. Built automation systems for 1,000+ on-site upgrades without major incidents.
+
+**Before that** — Backend engineer at DiDi (Go), cloud engineer at IBM CDL. 10 years of production engineering.
 
 ### Currently
 
