@@ -29,6 +29,15 @@ Websites (Shopify, WordPress, occasionally Astro) and AI infrastructure — runn
 
 Portfolio and writing: [hellenwang.github.io/portfolio](https://hellenwang.github.io/portfolio/)
 
+### Exploring
+
+Two directions I'm working through right now:
+
+- A fully managed serverless AI platform — no GPU wrangling, no cold starts, just code in and inference out.
+- A multimodal generation engine — one input in, text/image/audio/video out, all chained end to end.
+
+Early stages on both.
+
 ### Background
 
 Spent just over six years at Alibaba Cloud as tech lead on the IaaS platform. My team handled fault self-healing, automated upgrades, and software scheduling across 600K+ physical servers and 5M+ VMs and containers. We did a thousand-plus on-site upgrades without a major incident.
